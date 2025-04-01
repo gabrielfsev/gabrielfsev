@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Gabriel Severino 👋
 
-<p>
+### <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -18,8 +18,6 @@
   />
 
 </p>
-
-</br>
 
 ## Techs
 ### PHP JavaScript Vue.JS CSS Tailwind CSS Bootstrap MySql
