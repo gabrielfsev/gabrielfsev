@@ -19,6 +19,8 @@
 
 </p>
 
+</br>
+
 ## Techs
 ### PHP JavaScript Vue.JS CSS Tailwind CSS Bootstrap MySql
 
