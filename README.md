@@ -17,6 +17,4 @@
   />
 <br><br><br><br><br><br><br><br><br>
 ## Techs
-### PHP JavaScript Vue.JS CSS Tailwind CSS Bootstrap MySql
-
-### Estudando atualmente Vue.JS, PHP e MySql. Em breve estarei postando futuros projetos sobre meus estudos!
+### TypeScript Node.JS JavaScript HTML CSS Tailwind CSS MySql
