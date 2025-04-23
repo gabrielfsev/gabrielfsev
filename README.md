@@ -1,4 +1,4 @@
 
 ## Olá! Eu sou o Gabriel Severino 👋
 ## Techs
-### TypeScript Node.JS JavaScript HTML CSS Tailwind CSS MySql
+### HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, Python e MySQL
